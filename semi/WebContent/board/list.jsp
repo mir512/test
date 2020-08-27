@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>list.jsp</h1>
+충돌 테스트~
 </body>
 </html>

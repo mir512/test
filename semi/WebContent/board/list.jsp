@@ -10,5 +10,6 @@
 <h1>list.jsp</h1>
 list test
 ???
+충돌 테스트~
 </body>
 </html>
